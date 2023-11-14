@@ -1,0 +1,6 @@
+@MedicineCourierSystem_HostAddress = http://localhost:5240
+
+GET {{MedicineCourierSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
